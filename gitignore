@@ -1,0 +1,35 @@
+# Misc
+.fvm/
+.dart_tool/
+.buildlog/
+*.log
+
+# Build files
+build/
+/coverage/
+
+# Dart/Pub
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.fluttertool.d
+.fluttertool.env
+android/.gradle/
+android/.idea/
+android/app/release/
+android/key.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner/GeneratedPluginRegistrant.swift
+
+# MacOS
+.DS_Store
